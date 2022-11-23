@@ -15,3 +15,11 @@ My hobbies are dancing, Internet surfing, playing Chess, listening to music, wat
 
 
 ##
+
+## 🛠 Developement
+
+`Android Studio`
+
+## 🧠 Currently learning
+
+🧠 I'm currently learning Machine learning
