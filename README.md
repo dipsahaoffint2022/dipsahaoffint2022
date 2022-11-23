@@ -8,7 +8,7 @@ I can carry out any task assigned to me without hesitation.
 My hobbies are dancing, Internet surfing, playing Chess, listening to music, watching the news channel. In my spare time, I like to read news on my phone and traveling to my hometown.
 
 
-## 🛠 Skills
+## 🛠 Working On
 
 `Java`, `C`, `C++`, `Python`, `Firebase`
 
