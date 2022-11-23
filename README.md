@@ -22,4 +22,4 @@ My hobbies are dancing, Internet surfing, playing Chess, listening to music, wat
 
 ## 🧠 Currently learning
 
-🧠 I'm currently learning Machine learning
+🧠 I'm currently learning `Machine learning`
