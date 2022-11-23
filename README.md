@@ -1,7 +1,7 @@
 # Hi, I'm Biswadip! 👋
 
 ## 🚀 About Me
-I am new to Github. I am sweet smart, confident, and hardworking person 😄. I am a cool hearted person, so usually see every difficulty with a positive side and keep myself always smiling which makes me stronger even more.
+I am sweet smart, confident, and hardworking person 😄. I am a cool hearted person, so usually see every difficulty with a positive side and keep myself always smiling which makes me stronger even more.
 
 I can carry out any task assigned to me without hesitation.
 
