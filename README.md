@@ -10,7 +10,7 @@ My hobbies are dancing, Internet surfing, playing Chess, listening to music, wat
 
 ## 🛠 Working On
 
-`Java`, `C`, `C++`, `Python`, `Firebase`
+`Java`, `C`, `C++`, `Python`, `MySQL`, `HTML`, `CSS`, `JavaScript`, `MongoDB`, `Node JS`, `React JS`, `Firebase`
 
 ![App Screenshot](https://cdn.dribbble.com/users/2401141/screenshots/5487982/developers-gif-showcase.gif)
 
@@ -19,8 +19,4 @@ My hobbies are dancing, Internet surfing, playing Chess, listening to music, wat
 
 ## 🛠 Developement
 
-`Android Studio`
-
-## 🧠 Currently learning
-
-🧠 I'm currently learning `Machine learning`
+`Web Development`, `Android Studio`
